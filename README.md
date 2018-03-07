@@ -1,1 +1,1 @@
-﻿# tech-repoRepo for exercisesThis will make a conflict!
+﻿﻿# tech-repoRepo for exercisesWe resolved the conflict!# tech-repoRepo for exercisesMaking some changes!
